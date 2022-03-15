@@ -14,11 +14,11 @@ Here are some ideas to get you started:
 
 ### Hi there 👋, Shufa
 #### Web Development
-I'm Shufa from Singapore, and I am a web developer. I really enjoy learning languages and frameworks like Django and Sprint boot.
+I'm Shufa from Singapore, and I am a web developer. I really enjoy learning frameworks like Django and Sprint boot.
 
 Skills: HTML / CSS / Django / Java / Python
 
-- 🔭 I’m currently working on this page. 
+- 🔭 I’m currently participating the [Full Stack Training Program](https://github.com/woon17/Full-Stack-Training-Program)
 - 🌱 I’m currently learning Web Development 
 
 [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg' alt='github' height='40'>](https://github.com/woon17) [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg' alt='linkedin' height='40'>](https://www.linkedin.com/in/shufa-wen-7a530418b/)  
