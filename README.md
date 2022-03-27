@@ -21,6 +21,10 @@ Skills: HTML / CSS / Django / Java / Python
 - 🔭 I’m currently participating the [Full Stack Training Program](https://github.com/woon17/Full-Stack-Training-Program)
 - 🌱 I’m currently learning Web Development 
 
+- [My Portfolio](https://woon17.github.io/portfolio/)
+- [My Resume](https://woon17.github.io/portfolio/resume.html)
+- [Sports Activities Websites]()
+
 [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg' alt='github' height='40'>](https://github.com/woon17) [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg' alt='linkedin' height='40'>](https://www.linkedin.com/in/shufa-wen-7a530418b/)  
 
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=woon17&count_private=true)](#)
