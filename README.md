@@ -18,12 +18,11 @@ I'm Shufa from Singapore, and I am a web developer. I really enjoy learning fram
 
 Skills: HTML / CSS / Django / Java / Python
 
-- 🔭 I’m currently participating the [Full Stack Training Program](https://github.com/woon17/Full-Stack-Training-Program)
+- 🔭 Completed [Full Stack Training Program](https://github.com/woon17/Full-Stack-Training-Program)
 - 🌱 I’m currently learning Web Development 
 
 - [My Portfolio](https://woon17.github.io/portfolio/)
 - [My Resume](https://woon17.github.io/portfolio/resume.html)
-- [Sports Activities Websites](https://woon17.github.io/sports-activities-system/)
 
 [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg' alt='github' height='40'>](https://github.com/woon17) [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg' alt='linkedin' height='40'>](https://www.linkedin.com/in/shufa-wen-7a530418b/)  
 
